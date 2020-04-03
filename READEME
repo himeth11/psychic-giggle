@@ -1,0 +1,6 @@
+echo "# psychic-giggle" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/himeth11/psychic-giggle.git
+git push -u origin master
